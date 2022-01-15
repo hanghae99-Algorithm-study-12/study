@@ -4,9 +4,9 @@
 # 출력
 #       "bab" or "aba"                  "bb"
 
-input = "asddsasas"
+input = "casacdasdsadc"
 
-palentrome=""
+palin=""
 tempp=""
 for i in range(1,len(input)):
 
@@ -21,22 +21,24 @@ for i in range(1,len(input)):
             left+=1
             right-=1
             tempp=input[left:right+1]
-            if len(palentrome)<=len(tempp):
-                palentrome=tempp
-                print(tempp)
+            if len(palin)<=len(tempp):
+                palin=tempp
+
             break
 
         if (input[left] != input[right]):
 
             tempp=input[left+1:right]
 
-            if len(palentrome)<=len(tempp):
+            if len(palin)<=len(tempp):
 
-                palentrome=tempp
+                palin=tempp
 
             break
 
         cnt += 1 #cnt=2
-print(palentrome)
+
+print(palin)
+
 
 
