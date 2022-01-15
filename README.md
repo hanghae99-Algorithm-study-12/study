@@ -33,3 +33,6 @@
 |1-2|문자열|가장 긴 팰린드롬 부분 문자열|https://leetcode.com/problems/longest-palindromic-substring/|
 |1-3|배열|세수의 합|https://leetcode.com/problems/3sum/|
 |1-4|배열|배열 파티션|https://leetcode.com/problems/array-partition-i/|
+|2-1|연결 리스트|역순 연결 리스트|https://leetcode.com/problems/reverse-linked-list/|
+|2-2|연결 리스트|두 정렬 리스트의 병합|https://leetcode.com/problems/merge-two-sorted-lists/|
+|2-3|연결 리스트|홀짝 연결 리스트|https://leetcode.com/problems/odd-even-linked-list/|
