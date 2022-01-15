@@ -28,7 +28,7 @@
 ## 진행상황
 
 |회차|카테고리|문제|링크|   
-|:---:|:---:|:---:|:---:|
+|:---:|:-----:|:---:|:---:|
 |1-1|문자열|그룹 애너그램|https://leetcode.com/problems/group-anagrams/|
 |1-2|문자열|가장 긴 팰린드롬 부분 문자열|https://leetcode.com/problems/longest-palindromic-substring/|
 |1-3|배열|세수의 합|https://leetcode.com/problems/3sum/|
@@ -37,5 +37,5 @@
 |2-2|연결 리스트|두 정렬 리스트의 병합|https://leetcode.com/problems/merge-two-sorted-lists/|
 |2-3|연결 리스트|홀짝 연결 리스트|https://leetcode.com/problems/odd-even-linked-list/|
 |3-1|스택/큐|일일 온도|https://leetcode.com/problems/daily-temperatures/|
-|3-2|스택/큐|원형 큐 디자인|https://leetcode.com/problems/design-circular-queue/|
-|3-3|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/|
+|4-1|스택/큐|원형 큐 디자인|https://leetcode.com/problems/design-circular-queue/|
+|5-1|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/|
