@@ -1,6 +1,5 @@
 import collections
 
-
 def findAnagram():
     array = ["eat", "tea", "tan", "ate", "nat", "bat"]
     new = collections.defaultdict(list)
