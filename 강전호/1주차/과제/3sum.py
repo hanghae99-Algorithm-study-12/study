@@ -27,10 +27,10 @@ from itertools import combinations
 def threeSum(nums):
     answer = []
     nums.sort()
-    
+
     return answer
 
 
-nums = [-1, 0, 1, 2, -1, 4]
+nums = [-1, 0, 1, 2, -1, -4]
 
 print(threeSum(nums))
