@@ -33,4 +33,4 @@ def isPalindrome3(str):
     return isPalin
 if __name__ == "__main__":
     # mom, rotator, ... 앞이나 뒤에서 읽어도 똑같아.
-    print(isPalindrome("rot!ator"))
+    print(isPalindrome("bb"))

@@ -1,3 +1,4 @@
+# 문자열 배열을 받아 애너그램 단위로 그룹핑 하라
 # 입력
 #       ["eat", "tea", "tan", "ate", "nat", "bat"]
 # 출력
@@ -16,8 +17,6 @@ for i in input:
     except KeyError:
         anagrams["".join(sorted(i))] = [i]
 
-print(anagrams.values())
+print(list[anagrams.values()])
 
-for i in anagrams.values():
-    print(i)
 
