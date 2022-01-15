@@ -36,3 +36,6 @@
 |2-1|연결 리스트|역순 연결 리스트|https://leetcode.com/problems/reverse-linked-list/|
 |2-2|연결 리스트|두 정렬 리스트의 병합|https://leetcode.com/problems/merge-two-sorted-lists/|
 |2-3|연결 리스트|홀짝 연결 리스트|https://leetcode.com/problems/odd-even-linked-list/|
+|3-1|스택/큐|일일 온도|https://leetcode.com/problems/daily-temperatures/|
+|3-2|스택/큐|원형 큐 디자인|https://leetcode.com/problems/design-circular-queue/|
+|3-3|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/|
