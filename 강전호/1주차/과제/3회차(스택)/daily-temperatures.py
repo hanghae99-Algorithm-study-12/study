@@ -23,5 +23,6 @@ def dailyTemperatures(T):
             answer[last] =i-last
         stack.append(i)
 
+
     return answer
 print(dailyTemperatures(T))
