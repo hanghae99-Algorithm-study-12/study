@@ -1,8 +1,8 @@
 class MyQueue:
 
     def __init__(self):
-        self.input=[]
-        self.output=[]
+        self.input = []
+        self.output = []
 
     def push(self, x: int) -> None:
         self.input.append(x)
@@ -16,12 +16,12 @@ class MyQueue:
             while self.input:
                 self.output.append(self.input.pop())
         return self.output[-1]
+
     def empty(self) -> bool:
-        if not self.output and not self.input :
+        if not self.output and not self.input:
             return True
         else:
             return False
-
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
