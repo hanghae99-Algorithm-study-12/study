@@ -44,8 +44,28 @@
 |4-2|큐|원형 큐 디자인|https://leetcode.com/problems/design-circular-queue/|✔|
 |4-3|큐|카드2|https://www.acmicpc.net/problem/2164|✔|
 |4-4|큐|프린터 큐|https://www.acmicpc.net/problem/1966|✔|
-|5-1|해시 테이블|보석과 돌|https://leetcode.com/problems/jewels-and-stones/||
-|5-2|해시 테이블|중복 문자가 없는 가장 긴 부분 문자열|https://leetcode.com/problems/longest-substring-without-repeating-characters/||
-|5-3|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/||
-|5-4|해시 테이블|수 찾기|https://www.acmicpc.net/problem/1920||
-|5-5|해시 테이블|비밀번호 찾기|https://www.acmicpc.net/problem/17219||
+|5-1|해시 테이블|보석과 돌|https://leetcode.com/problems/jewels-and-stones/|✔|
+|5-2|해시 테이블|중복 문자가 없는 가장 긴 부분 문자열|https://leetcode.com/problems/longest-substring-without-repeating-characters/|✔|
+|5-3|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/|✔|
+|5-4|해시 테이블|수 찾기|https://www.acmicpc.net/problem/1920|✔|
+|5-5|해시 테이블|비밀번호 찾기|https://www.acmicpc.net/problem/17219|✔|
+|6-1|그래프/DFS|전화 번호 문자 조합|https://leetcode.com/problems/letter-combinations-of-a-phone-number/||
+|6-2|그래프/DFS|순열|https://leetcode.com/problems/permutations/||
+|6-3|그래프/DFS|조합|https://leetcode.com/problems/combinations/||
+|6-4|그래프/DFS|단지번호붙이기|https://www.acmicpc.net/problem/2667||
+|6-5|그래프/DFS|바이러스|https://www.acmicpc.net/problem/2606||
+|7-1|BFS|부분 집합|https://leetcode.com/problems/subsets/||
+|7-2|BFS|일정 재구성|https://leetcode.com/problems/reconstruct-itinerary/||
+|7-3|BFS|코스 스케줄|https://leetcode.com/problems/course-schedule/||
+|7-4|BFS|단지번호붙이기|https://www.acmicpc.net/problem/2667||
+|7-5|BFS|바이러스|https://www.acmicpc.net/problem/2606||
+|8-1|백트래킹|1, 2, 3 더하기|https://www.acmicpc.net/problem/9095||
+|8-2|백트래킹|암호 만들기|https://www.acmicpc.net/problem/1759||
+|9-1|이진 트리|이진 트리의 직경|https://leetcode.com/problems/diameter-of-binary-tree/||
+|9-2|이진 트리|가장 긴 동일 값의 경로|https://leetcode.com/problems/longest-univalue-path/||
+|9-3|이진 트리|이진 트리 반전|https://leetcode.com/problems/invert-binary-tree/||
+|9-4|이진 트리|트리의 부모 찾기|https://www.acmicpc.net/problem/11725||
+|10-1|이진 트리|이진 트리 직렬화 & 역직렬화|https://leetcode.com/problems/serialize-and-deserialize-binary-tree/||
+|10-2|이진 트리|균형 이진 트리|https://leetcode.com/problems/balanced-binary-tree/||
+|10-3|이진 트리|최소 높이 트리|https://leetcode.com/problems/minimum-height-trees/||
+|10-4|이진 트리|트리|https://www.acmicpc.net/problem/1068||
