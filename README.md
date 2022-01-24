@@ -49,7 +49,7 @@
 |5-3|해시 테이블|상위 K 빈도 요소|https://leetcode.com/problems/top-k-frequent-elements/|✔|
 |5-4|해시 테이블|수 찾기|https://www.acmicpc.net/problem/1920|✔|
 |5-5|해시 테이블|비밀번호 찾기|https://www.acmicpc.net/problem/17219|✔|
-|6-1|그래프/DFS|전화 번호 문자 조합|https://leetcode.com/problems/letter-combinations-of-a-phone-number/||
+|6-1|그래프/DFS|전화 번호 문자 조합|https://leetcode.com/problems/letter-combinations-of-a-phone-number/|✔|
 |6-2|그래프/DFS|순열|https://leetcode.com/problems/permutations/|✔|
 |6-3|그래프/DFS|조합|https://leetcode.com/problems/combinations/|✔|
 |6-4|그래프/DFS|단지번호붙이기|https://www.acmicpc.net/problem/2667|✔|
