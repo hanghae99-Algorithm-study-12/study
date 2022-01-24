@@ -50,15 +50,15 @@
 |5-4|해시 테이블|수 찾기|https://www.acmicpc.net/problem/1920|✔|
 |5-5|해시 테이블|비밀번호 찾기|https://www.acmicpc.net/problem/17219|✔|
 |6-1|그래프/DFS|전화 번호 문자 조합|https://leetcode.com/problems/letter-combinations-of-a-phone-number/||
-|6-2|그래프/DFS|순열|https://leetcode.com/problems/permutations/||
-|6-3|그래프/DFS|조합|https://leetcode.com/problems/combinations/||
-|6-4|그래프/DFS|단지번호붙이기|https://www.acmicpc.net/problem/2667||
-|6-5|그래프/DFS|바이러스|https://www.acmicpc.net/problem/2606||
-|7-1|BFS|부분 집합|https://leetcode.com/problems/subsets/||
-|7-2|BFS|일정 재구성|https://leetcode.com/problems/reconstruct-itinerary/||
-|7-3|BFS|코스 스케줄|https://leetcode.com/problems/course-schedule/||
-|7-4|BFS|단지번호붙이기|https://www.acmicpc.net/problem/2667||
-|7-5|BFS|바이러스|https://www.acmicpc.net/problem/2606||
+|6-2|그래프/DFS|순열|https://leetcode.com/problems/permutations/|✔|
+|6-3|그래프/DFS|조합|https://leetcode.com/problems/combinations/|✔|
+|6-4|그래프/DFS|단지번호붙이기|https://www.acmicpc.net/problem/2667|✔|
+|6-5|그래프/DFS|바이러스|https://www.acmicpc.net/problem/2606|✔|
+|7-1|BFS|부분 집합|https://leetcode.com/problems/subsets/|✔|
+|7-2|BFS|일정 재구성|https://leetcode.com/problems/reconstruct-itinerary/|✔|
+|7-3|BFS|코스 스케줄|https://leetcode.com/problems/course-schedule/|✔|
+|7-4|BFS|단지번호붙이기|https://www.acmicpc.net/problem/2667|✔|
+|7-5|BFS|바이러스|https://www.acmicpc.net/problem/2606|✔|
 |8-1|백트래킹|1, 2, 3 더하기|https://www.acmicpc.net/problem/9095||
 |8-2|백트래킹|암호 만들기|https://www.acmicpc.net/problem/1759||
 |9-1|이진 트리|이진 트리의 직경|https://leetcode.com/problems/diameter-of-binary-tree/||
