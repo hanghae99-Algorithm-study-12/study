@@ -59,13 +59,22 @@
 |7-3|BFS|코스 스케줄|https://leetcode.com/problems/course-schedule/|✔|
 |7-4|BFS|단지번호붙이기|https://www.acmicpc.net/problem/2667|✔|
 |7-5|BFS|바이러스|https://www.acmicpc.net/problem/2606|✔|
-|8-1|백트래킹|1, 2, 3 더하기|https://www.acmicpc.net/problem/9095||
-|8-2|백트래킹|암호 만들기|https://www.acmicpc.net/problem/1759||
-|9-1|이진 트리|이진 트리의 직경|https://leetcode.com/problems/diameter-of-binary-tree/||
-|9-2|이진 트리|가장 긴 동일 값의 경로|https://leetcode.com/problems/longest-univalue-path/||
-|9-3|이진 트리|이진 트리 반전|https://leetcode.com/problems/invert-binary-tree/||
-|9-4|이진 트리|트리의 부모 찾기|https://www.acmicpc.net/problem/11725||
-|10-1|이진 트리|이진 트리 직렬화 & 역직렬화|https://leetcode.com/problems/serialize-and-deserialize-binary-tree/||
-|10-2|이진 트리|균형 이진 트리|https://leetcode.com/problems/balanced-binary-tree/||
-|10-3|이진 트리|최소 높이 트리|https://leetcode.com/problems/minimum-height-trees/||
-|10-4|이진 트리|트리|https://www.acmicpc.net/problem/1068||
+|8-1|백트래킹|1, 2, 3 더하기|https://www.acmicpc.net/problem/9095|✔|
+|8-2|백트래킹|암호 만들기|https://www.acmicpc.net/problem/1759|✔|
+|9-1|이진 트리|이진 트리의 직경|https://leetcode.com/problems/diameter-of-binary-tree/|✔|
+|9-2|이진 트리|가장 긴 동일 값의 경로|https://leetcode.com/problems/longest-univalue-path/|✔|
+|9-3|이진 트리|이진 트리 반전|https://leetcode.com/problems/invert-binary-tree/|✔|
+|9-4|이진 트리|트리의 부모 찾기|https://www.acmicpc.net/problem/11725|✔|
+|10-1|이진 트리|이진 트리 직렬화 & 역직렬화|https://leetcode.com/problems/serialize-and-deserialize-binary-tree/|✔|
+|10-2|이진 트리|균형 이진 트리|https://leetcode.com/problems/balanced-binary-tree/|✔|
+|10-3|이진 트리|최소 높이 트리|https://leetcode.com/problems/minimum-height-trees/|✔|
+|11-1|힙|배열의 K번째 큰 요소|https://leetcode.com/problems/kth-largest-element-in-an-array/||
+|11-2|힙|최소 힙|https://www.acmicpc.net/problem/1927||
+|11-3|힙|최대 힙|https://www.acmicpc.net/problem/11279||
+|12-1|정렬|삽입 정렬 리스트|https://leetcode.com/problems/insertion-sort-list/||
+|12-2|정렬|가장 큰 수|https://leetcode.com/problems/largest-number/||
+|12-3|정렬|전화번호|https://www.acmicpc.net/problem/1472||
+|13-1|정렬|리스트 정렬|https://leetcode.com/problems/sort-list/||
+|13-2|정렬|색정렬|https://leetcode.com/problems/sort-colors/||
+|13-3|정렬|좌표 정렬하기|https://www.acmicpc.net/problem/11650||
+|13-4|정렬|좌표 정렬하기 2|https://www.acmicpc.net/problem/11651||
