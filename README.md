@@ -28,7 +28,7 @@
 ## 진행상황
 
 |회차|카테고리|문제|링크| |   
-|:---:|:-----:|:---:|:---:|:---:|
+|:----:|:-----:|:---:|:---:|:---:|
 |1-1|문자열|그룹 애너그램|https://leetcode.com/problems/group-anagrams/|✔|
 |1-2|문자열|가장 긴 팰린드롬 부분 문자열|https://leetcode.com/problems/longest-palindromic-substring/|✔|
 |1-3|배열|세수의 합|https://leetcode.com/problems/3sum/|✔|
