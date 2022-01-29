@@ -74,8 +74,7 @@
 |11-3|힙|최대 힙|https://www.acmicpc.net/problem/11279|✔|
 |12-1|정렬|삽입 정렬 리스트|https://leetcode.com/problems/insertion-sort-list/||
 |12-2|정렬|가장 큰 수|https://leetcode.com/problems/largest-number/||
-|12-3|정렬|전화번호|https://www.acmicpc.net/problem/1472||
-|12-4|정렬|전화번호 목록|https://www.acmicpc.net/problem/5052||
+|12-3|정렬|전화번호 목록|https://www.acmicpc.net/problem/5052||
 |13-1|정렬|리스트 정렬|https://leetcode.com/problems/sort-list/||
 |13-2|정렬|색정렬|https://leetcode.com/problems/sort-colors/||
 |13-3|정렬|좌표 정렬하기|https://www.acmicpc.net/problem/11650||
