@@ -1,6 +1,5 @@
 import itertools
 
-
 def solution(numbers, target):
     answer = 0
     temp = [0]
