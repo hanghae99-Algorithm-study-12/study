@@ -69,7 +69,16 @@
 |10-2|이진 트리|균형 이진 트리|https://leetcode.com/problems/balanced-binary-tree/||
 |10-3|이진 트리|최소 높이 트리|https://leetcode.com/problems/minimum-height-trees/||
 |10-4|이진 트리|트리|https://www.acmicpc.net/problem/1068||
-
+|11-1|힙|배열의 K번째 큰 요소|https://leetcode.com/problems/kth-largest-element-in-an-array/||
+|11-2|힙|최소 힙|https://www.acmicpc.net/problem/1927||
+|11-3|힙|최대 힙|https://www.acmicpc.net/problem/11279||
+|12-1|정렬|삽입 정렬 리스트|https://leetcode.com/problems/insertion-sort-list/||
+|12-2|정렬|가장 큰 수|https://leetcode.com/problems/largest-number/||
+|12-3|정렬|전화번호|https://www.acmicpc.net/problem/1472||
+|13-1|정렬|리스트 정렬|https://leetcode.com/problems/sort-list/||
+|13-2|정렬|색정렬|https://leetcode.com/problems/sort-colors/||
+|13-3|정렬|좌표 정렬하기|https://www.acmicpc.net/problem/11650||
+|13-4|정렬|좌표 정렬하기 2|https://www.acmicpc.net/problem/11651||
 
 
 ---
@@ -84,3 +93,4 @@
 베이스 케이스 : 베이스 케이스를 항상 가져야 하며, 이는 재귀 없이 해결될 수 있어야 한다. 재귀의 마지막은 반드시 알고리즘이 스스로 풀어야 한다는 소리이다.
 재귀의 진행 방향 : 재귀 케이스에서의 재귀 호출은 항상 베이스 케이스를 향하는 방향으로 진행되어야 한다. 이는 재귀로 해결하고자 하는 부문제의 크기가 원래 문제의 크기보다 작아져야 한다는 의미다.
 정상 작동 가정 : 모든 재귀 호출이 제대로 작동한다고 가정하라. 재귀 호출에 맡기는 부문제가 제대로 해결되어 반환 될까 하는 걱정을 하지 말라는 뜻이다.
+
