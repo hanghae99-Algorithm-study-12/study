@@ -72,18 +72,20 @@
 |11-1|힙|배열의 K번째 큰 요소|https://leetcode.com/problems/kth-largest-element-in-an-array/|✔|
 |11-2|힙|최소 힙|https://www.acmicpc.net/problem/1927|✔|
 |11-3|힙|최대 힙|https://www.acmicpc.net/problem/11279|✔|
-|12-1|정렬|삽입 정렬 리스트|https://leetcode.com/problems/insertion-sort-list/||
-|12-2|정렬|가장 큰 수|https://leetcode.com/problems/largest-number/||
-|12-3|정렬|전화번호 목록|https://www.acmicpc.net/problem/5052||
-|13-1|정렬|리스트 정렬|https://leetcode.com/problems/sort-list/||
-|13-2|정렬|색정렬|https://leetcode.com/problems/sort-colors/||
-|13-3|정렬|좌표 정렬하기|https://www.acmicpc.net/problem/11650||
-|13-4|정렬|좌표 정렬하기 2|https://www.acmicpc.net/problem/11651||
+|12-1|정렬|삽입 정렬 리스트|https://leetcode.com/problems/insertion-sort-list/|✔|
+|12-2|정렬|가장 큰 수|https://leetcode.com/problems/largest-number/|✔|
+|12-3|정렬|전화번호 목록|https://www.acmicpc.net/problem/5052|✔|
+|13-1|정렬|리스트 정렬|https://leetcode.com/problems/sort-list/|✔|
+|13-2|정렬|색정렬|https://leetcode.com/problems/sort-colors/|✔|
+|13-3|정렬|좌표 정렬하기|https://www.acmicpc.net/problem/11650|✔|
+|13-4|정렬|좌표 정렬하기 2|https://www.acmicpc.net/problem/11651|✔|
 |14-1|정렬|구간 병합|https://leetcode.com/problems/merge-intervals/||
 |14-2|정렬|단어정렬|https://www.acmicpc.net/problem/1181||
 |15-1|정렬|유효한 애너그램|https://leetcode.com/problems/valid-anagram/||
 |15-2|정렬|나이순 정렬|https://www.acmicpc.net/problem/10814||
 |15-3|정렬|수 정렬하기 2|https://www.acmicpc.net/problem/2751||
+|16-1|이진탐색|두 수의 합2|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/||
+|16-2|이진탐색|2D 행렬 검색2|https://leetcode.com/problems/search-a-2d-matrix-ii/||
 
 
 
