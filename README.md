@@ -84,8 +84,13 @@
 |15-1|정렬|유효한 애너그램|https://leetcode.com/problems/valid-anagram/||
 |15-2|정렬|나이순 정렬|https://www.acmicpc.net/problem/10814||
 |15-3|정렬|수 정렬하기 2|https://www.acmicpc.net/problem/2751||
-|16-1|이진탐색|두 수의 합2|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/||
-|16-2|이진탐색|2D 행렬 검색2|https://leetcode.com/problems/search-a-2d-matrix-ii/||
+|16-1|이진탐색|두 수의 합2|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/|✔|
+|16-2|이진탐색|2D 행렬 검색2|https://leetcode.com/problems/search-a-2d-matrix-ii/|✔|
+|16-1|이진탐색|두 수의 합2|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/|✔|
+|16-2|이진탐색|2D 행렬 검색2|https://leetcode.com/problems/search-a-2d-matrix-ii/|✔|
+|17-1 |이진탐색|예산|https://www.acmicpc.net/problem/2512|✔|
+|17-2 |이진탐색|나무자르기|https://www.acmicpc.net/problem/2805|✔|
+|17-3 |이진탐색|2D 행렬 검색2|https://www.acmicpc.net/problem/1654|✔|
 
 
 
