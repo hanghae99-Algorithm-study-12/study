@@ -11,4 +11,4 @@ def findnum(lst, target):
     return right - left
 
 
-print(findnum([1, 1, 2, 2, 2, 2, 3], 4))
+print(findnum([1, 1, 2, 2, 2, 2, 3], 1))
